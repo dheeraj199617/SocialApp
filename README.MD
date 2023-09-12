@@ -10,3 +10,6 @@ sudo docker-compose build
 sudo docker-compose up
 
 #Note : Make sure docker is installed in your system
+
+
+#Note  : We could have designed API using ModelViewSets , or from Mixins also , here our AIM was to achiece the target.
