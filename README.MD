@@ -1,3 +1,6 @@
+#take pull of code first 
+
+
 #RUN BELOW COMMAND TO BUILD DOCKER 
 
 sudo docker-compose build
